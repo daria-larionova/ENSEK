@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENSEK.API", "ENSEK.API\ENSEK.API.csproj", "{8B9F3B1A-7E4D-4C5E-9F3B-1A7E4D4C5E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENSEK.Tests", "ENSEK.Tests\ENSEK.Tests.csproj", "{9C0F4C2B-8F5E-4D6F-0F4C-2B8F5E4D6F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B9F3B1A-7E4D-4C5E-9F3B-1A7E4D4C5E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9F3B1A-7E4D-4C5E-9F3B-1A7E4D4C5E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9F3B1A-7E4D-4C5E-9F3B-1A7E4D4C5E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9F3B1A-7E4D-4C5E-9F3B-1A7E4D4C5E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0F4C2B-8F5E-4D6F-0F4C-2B8F5E4D6F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0F4C2B-8F5E-4D6F-0F4C-2B8F5E4D6F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0F4C2B-8F5E-4D6F-0F4C-2B8F5E4D6F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0F4C2B-8F5E-4D6F-0F4C-2B8F5E4D6F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
+
+
